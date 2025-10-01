@@ -241,7 +241,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bffb2ca3f4088a4e8b973b137e832eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bulletDamage: 30
   rb: {fileID: 7064924425854299344}
   speed: 10
-  autoDestroyTime: 50
+  autoDestroyTime: 30
   hitParticle: {fileID: 7275548786892498063, guid: 5bc9a0bf98f67d240a936bf476ba2082, type: 3}
